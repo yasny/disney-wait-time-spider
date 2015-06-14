@@ -25,7 +25,7 @@ STATS_DUMP = False
 
 # ---- FeedToGraphitePipeline Settings ----
 GRAPHITE_SERVER = "localhost"
-GRAPHITE_PORT = 12003
+GRAPHITE_PORT = 2003
 GRAPHITE_DRYRUN_ENABLED = True
 
 # Maps the attraction ID (taken from the attraction link href) to a Graphite
@@ -44,7 +44,7 @@ ATTRACTION_METRIC_MAP = {
     'wl_mountain': 'disney.land.western_land.big_thunder_mountain',
     # Disneysea
     'aw_tot':      'disney.sea.american_waterfront.tower_of_terror',
-    'aw_toy':      'disney.sea.american_waterfront.toy_story',
+    'aw_toy':      'disney.sea.american_waterfront.toy_story_mania',
     'mi_center':   'disney.sea.mysterious_island.center_of_the_earth',
     'pd_storm':    'disney.sea.port_discovery.storm_riders',
     'pd_aqua':     'disney.sea.port_discovery.aquatopia',
