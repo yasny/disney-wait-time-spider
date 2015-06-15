@@ -46,7 +46,7 @@ ATTRACTION_METRIC_MAP = {
     'aw_tot':      'disney.sea.american_waterfront.tower_of_terror',
     'aw_toy':      'disney.sea.american_waterfront.toy_story_mania',
     'mi_center':   'disney.sea.mysterious_island.center_of_the_earth',
-    'pd_storm':    'disney.sea.port_discovery.storm_riders',
+    'pd_storm':    'disney.sea.port_discovery.storm_rider',
     'pd_aqua':     'disney.sea.port_discovery.aquatopia',
     'ld_indiana':  'disney.sea.lost_river_delta.indiana_jones',
     'ld_raging':   'disney.sea.lost_river_delta.raging_spirits',
